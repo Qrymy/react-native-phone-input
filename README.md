@@ -147,6 +147,8 @@ render(){
 | onPressFlag               | function()       | null      | function to be invoked when press on flag image                                |
 | countriesList             | array            | null      | custom countries list                                                          |
 | autoFormat                | bool             | false     | automatically format phone number as it is entered                             |
+| flagContainerStyle        | object           | null      | custom styles                                                                  |
+| flagDialCodeStyle         | object           | null      | custom styles                                                                  |
 
 ### Functions:
 
